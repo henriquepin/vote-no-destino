@@ -516,16 +516,44 @@
         null,
         null
       ],
-      "/home/henriquepin/workspace/vote-no-destino/config/routes.rb": [
+      "/home/henriquepin/workspace/vote-no-destino/spec/factories/places.rb": [
+        1,
+        1,
         1,
         null,
+        null
+      ],
+      "/home/henriquepin/workspace/vote-no-destino/config/routes.rb": [
+        1,
+        1,
         null
       ],
       "/home/henriquepin/workspace/vote-no-destino/app/helpers/application_helper.rb": [
         1,
         null
+      ],
+      "/home/henriquepin/workspace/vote-no-destino/app/models/place.rb": [
+        1,
+        null
+      ],
+      "/home/henriquepin/workspace/vote-no-destino/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/home/henriquepin/workspace/vote-no-destino/app/controllers/home_controller.rb": [
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/home/henriquepin/workspace/vote-no-destino/app/controllers/application_controller.rb": [
+        1,
+        1,
+        null
       ]
     },
-    "timestamp": 1482359752
+    "timestamp": 1482587487
   }
 }
