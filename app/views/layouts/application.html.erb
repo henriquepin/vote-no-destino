@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>VoteNoDestino</title>
     <%= csrf_meta_tags %>
 
@@ -9,6 +10,12 @@
   </head>
 
   <body>
+    <h1>Bem vindo!</h1>
+    <section>
+      <h2>Por favor, escolha seu destino:</h2>
+      <li>São Paulo</li>
+      <li>Londres</li>
+    </section>
     <%= yield %>
   </body>
 </html>
